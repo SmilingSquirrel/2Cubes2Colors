@@ -4,6 +4,7 @@ A non-competing BGMC36 entry.
 Blender Version: UPBGE 2.5
 
 
+The game is rather difficult as I didn't have time to do any fine tuning.
 Goal: Get a high score.
 
 Controls:
