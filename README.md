@@ -5,6 +5,7 @@ Blender Version: UPBGE 2.5
 
 
 The game is rather difficult as I didn't have time to do any fine tuning.
+
 Goal: Collect coins and dodge the traps to get a high score.
 
 
