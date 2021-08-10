@@ -5,7 +5,8 @@ Blender Version: UPBGE 2.5
 
 
 The game is rather difficult as I didn't have time to do any fine tuning.
-Goal: Get a high score.
+Goal: Collect coins and dodge the traps to get a high score.
+
 
 Controls:
   Q - Switch cubes.
